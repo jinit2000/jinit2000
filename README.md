@@ -32,5 +32,5 @@ I build tools that combine data, logic, and clean interfaces - from ML-powered s
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jinitpatel04-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jinitpatel04/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jinit2000.github.io-brightgreen?style=flat&logo=github)](https://jinit2000.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jinit2000.github.io-brightgreen?style=flat&logo=github)](https://jinit2000.github.io/jinit-portfolio/)
 [![Email](https://img.shields.io/badge/Email-jinitpatel4112000@gmail.com-red?style=flat&logo=gmail)](mailto:jinitpatel4112000@gmail.com)
