@@ -13,7 +13,7 @@ I build tools that combine data, logic, and clean interfaces - from ML-powered s
 |---|---|---|
 | [stock-analyzer-ml-v2](https://github.com/jinit2000/stock-analyzer-ml-v2) | ML app predicting stock trade probabilities with FastAPI + React + Docker + Jenkins | Python, FastAPI, React, TypeScript, Docker |
 | [stock-analyzer](https://github.com/jinit2000/stock-analyzer) | Desktop app generating buy/sell signals using RSI, SMA, and fundamentals | Python, tkinter, yfinance |
-| [jinit-portfolio](https://github.com/jinit2000/jinit-portfolio) | Personal portfolio site built with React and TypeScript | React, TypeScript, Tailwind, Vite |
+| [jinit-portfolio]([https://github.com/jinit2000/jinit-portfolio](https://jinit2000.github.io/jinit-portfolio/)) | Personal portfolio site built with React and TypeScript | React, TypeScript, Tailwind, Vite |
 
 ---
 
